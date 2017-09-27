@@ -20,6 +20,8 @@ ASSET REQUIREMENTS
 	• Textures: Later-on we'll want to add for visual flare.
 	• Music: Background music to create tension.
 
+-----------------------------------------------------------
+
 OUR ITERATIVE CYCLE
 World -> Tank -> Controls -> Player 2 -> UI -> loop
 
