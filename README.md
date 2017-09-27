@@ -1,6 +1,7 @@
-# 04_BattleTank
+﻿# 04_BattleTank
 An open-world head-to-head tank fight, with simple AI, terrain and advanced control system in Unreal Engine 4.
 
+-----------------------------------------------------------
 
 GAME CONCEPT
 	• Tank battle is an open-world head-to-head tank combat game.
@@ -21,4 +22,6 @@ ASSET REQUIREMENTS
 
 OUR ITERATIVE CYCLE
 World -> Tank -> Controls -> Player 2 -> UI -> loop
+
+-----------------------------------------------------------
 
